@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Hello 👋  I'm web developer  👩‍💻 
+🌱 I’m currently learning in Soongsil Univ, GlobalMedia.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoe0929&show_icons=true&theme=radical)
