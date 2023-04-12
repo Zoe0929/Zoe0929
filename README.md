@@ -7,8 +7,6 @@
 <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 
 </div>
 
