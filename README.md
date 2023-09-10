@@ -1,12 +1,16 @@
-<div align="left">
+<div align="center">
 
 ## Hello, I am Zoe 👋 #
 ### School 🏫
 Soongsil Univ. GlobalMedia
 ### Activity 🌊🏄‍♂️
-**Yourssu** iOS developer (2022.3 ~)
+#### **Yourssu** 
+ Contents Designer (2020.3 ~ 2022.3) </br>
+ iOS developer (2022.3 ~)
 
-**GO SOPT** iOS part (2023.3 ~)
+#### **GO SOPT** 
+ iOS part (2023.3 ~) </br>
+ YELL:O iOS developer (DEMODAY 대상)
 
 ### OverView 👀
 ![](./profile-3d-contrib/profile-gitblock.svg)
