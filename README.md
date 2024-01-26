@@ -1,6 +1,7 @@
 <div align="center">
 
 ## Hello, I am Zoe 👋 #
+빠른 실행, 도전으로 성장하는 iOS 개발자 이지희입니다 😃
 ### School 🏫
 Soongsil Univ. GlobalMedia
 ### Activity 🌊🏄‍♂️
