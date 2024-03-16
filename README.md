@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7276,50:FFF2DB,75:3572A5,100:A371F7&height=125&section=header&text=&fontSize=0" width="100%"/>
 
 # Hello, I am Zoe 👋 #
-**도전🚀 열정🔥 실행🙆‍♀️** 으로 성장하는 iOS 개발자 이지희입니다. 
+**도전🚀 몰입🔥 실행🙆‍♀️** 
+근거에 대해 끊임없이 고민하고 새로운 기술에 대한 호기심으로 성장하는 iOS 개발자 이지희입니다. </br>
+유저에 대한 이해를 바탕으로 개발의 가치를 실현하는 `Problem Solver`를 꿈꾸고 있습니다
 
 ### School 🏫
 Soongsil Univ. GlobalMedia
