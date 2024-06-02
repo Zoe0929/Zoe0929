@@ -27,7 +27,9 @@ SOPT 15주년 컨퍼런스
 
 ### SOPT 34기 SOPKATHON
 문해력 부재를 가장 "0" 하게 채우는 방법, **너 이거 알아?** iOS developer (우수상)
- 
+
+### DEPROMEET 
+15기 iOS developer (2024.06 ~ `now!` )
 <div align="center">
  
 ### OverView 👀
