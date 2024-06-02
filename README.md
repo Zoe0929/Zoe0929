@@ -24,6 +24,9 @@ SOPT 15주년 컨퍼런스
  iOS part OB (2023.9 ~ 2024.1) </br>
  33기 운영팀 **꿈결티미단** 온라인 디자인 </br>
 **HMH (하면함)** iOS Lead (DEMODAY 우수상)
+
+### SOPT 34기 SOPKATHON
+문해력 부재를 가장 "0" 하게 채우는 방법, **너 이거 알아?** iOS developer (우수상)
  
 <div align="center">
  
