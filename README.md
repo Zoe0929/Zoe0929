@@ -11,7 +11,7 @@
 | **MIND23**|   SOPT 15주년 컨퍼런스  **MIND23 : 오늘도 멈추지 않는 IT인들** Marketer   |     |
 |**DO SOPT** |**HMH (하면함)** iOS Lead (DEMODAY 우수상)| [앱스토어](https://apps.apple.com/kr/app/%ED%95%98%EB%A9%B4%ED%95%A8/id6480371251) [Github](https://github.com/Team-HMH/HMH_iOS) |
 |**SOPT 34기 SOPKATHON**|문해력 부재를 가장 "0" 하게 채우는 방법 **너 이거 알아?** iOS developer (우수상) |  [Github](https://github.com/34th-SOPKATHON-iOS-TEAM2/SOPKATHON-iOS) |
-| **DEPROMEET**  | 하루 한 번, 반려동물과의 특별한 순간을 담다, **왈왈**     | [Github](https://github.com/depromeet/WalWal-iOS) |
+| **DEPROMEET**  | 하루 한 번, 반려동물과의 특별한 순간을 담다, **왈왈**     | [AppStore](https://apps.apple.com/kr/app/%EC%99%88%EC%99%88/id6553981069) [Github](https://github.com/depromeet/WalWal-iOS) |
 | **Orange Co.**  | 애물딴지가 되기 전에, 모바일 배송상품 거래 플랫폼, **딴지**   | [Github](https://github.com/Orange-Co/DDANZI_iOS)|
 
 ### 🔥tech stack🔥 ###
