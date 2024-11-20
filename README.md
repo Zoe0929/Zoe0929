@@ -13,6 +13,8 @@
 |**SOPT 34기 SOPKATHON**|문해력 부재를 가장 "0" 하게 채우는 방법 **너 이거 알아?** iOS developer (우수상) |  [Github](https://github.com/34th-SOPKATHON-iOS-TEAM2/SOPKATHON-iOS) |
 | **DEPROMEET**  | 하루 한 번, 반려동물과의 특별한 순간을 담다, **왈왈**     | [AppStore](https://apps.apple.com/kr/app/%EC%99%88%EC%99%88/id6553981069) [Github](https://github.com/depromeet/WalWal-iOS) |
 | **Orange Co.**  | 애물딴지가 되기 전에, 모바일 배송상품 거래 플랫폼, **딴지**   | [Github](https://github.com/Orange-Co/DDANZI_iOS)|
+| **Ddan Ddan**  | 운동 권유 애플리케이션 , **딴딴**   | [Github](https://github.com/ddan-dda-ra/ddan-ddan-ios)|
+
 
 ### 🔥tech stack🔥 ###
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=UIKit&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/>
