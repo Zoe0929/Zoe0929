@@ -12,8 +12,8 @@
 |**DO SOPT** |**HMH (하면함)** iOS Lead (DEMODAY 우수상)| [AppStore](https://apps.apple.com/kr/app/%ED%95%98%EB%A9%B4%ED%95%A8/id6480371251) [Github](https://github.com/Team-HMH/HMH_iOS) |
 |**SOPT 34기 SOPKATHON**|문해력 부재를 가장 "0" 하게 채우는 방법 **너 이거 알아?** iOS developer (우수상) |  [Github](https://github.com/34th-SOPKATHON-iOS-TEAM2/SOPKATHON-iOS) |
 | **DEPROMEET**  | 하루 한 번, 반려동물과의 특별한 순간을 담다, **왈왈**     | [AppStore](https://apps.apple.com/kr/app/%EC%99%88%EC%99%88/id6553981069) [Github](https://github.com/depromeet/WalWal-iOS) |
-| **Orange Co.**  | 애물딴지가 되기 전에, 모바일 배송상품 거래 플랫폼, **딴지**   | [Github](https://github.com/Orange-Co/DDANZI_iOS)|
-| **Ddan Ddan**  | 운동 권유 애플리케이션 , **딴딴**   | [Github](https://github.com/ddan-dda-ra/ddan-ddan-ios)|
+| **Orange Co.**  | 애물딴지가 되기 전에, 모바일 배송상품 거래 플랫폼, **딴지**   |[AppStore](https://apps.apple.com/kr/app/%EB%94%B4%EC%A7%80-%EB%B0%B0%EC%86%A1%EC%84%A0%EB%AC%BC-%EA%B1%B0%EB%9E%98-%EC%84%9C%EB%B9%84%EC%8A%A4/id6508169572) [Github](https://github.com/Orange-Co/DDANZI_iOS)|
+| **Ddan Ddan**  | 운동 권유 애플리케이션 , **딴딴**   |[AppStore]([https://apps.apple.com/kr/app/%EC%99%88%EC%99%88/id6553981069](https://apps.apple.com/kr/app/%EB%94%B4%EB%94%B4-%EB%82%98%EC%9D%98-%EC%9A%B4%EB%8F%99-%EB%8B%A4%EB%A7%88%EA%B3%A0%EC%B9%98/id6736588896)) [Github](https://github.com/ddan-dda-ra/ddan-ddan-ios)|
 
 
 ### 🔥tech stack🔥 ###
