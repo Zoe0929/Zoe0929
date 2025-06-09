@@ -29,5 +29,4 @@
 
 ## EnZoe With Me 🙆‍♀️ 
 #### 📬 email : mam07065@naver.com
-#### 📸 instagram : @9.ysaeee29
 #### ✅ velog : https://velog.io/@mam07065
