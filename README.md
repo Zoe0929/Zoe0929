@@ -31,13 +31,3 @@
 #### 📬 email : mam07065@naver.com
 #### 📸 instagram : @9.ysaeee29
 #### ✅ velog : https://velog.io/@mam07065
-
-
-<div align="center">
- 
-### OverView 👀
-![](./profile-3d-contrib/profile-gitblock.svg)
-**welcome** 🥳 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZoe0929&count_bg=%23BCE6F9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
